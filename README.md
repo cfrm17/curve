@@ -10,6 +10,8 @@ Prior to the 2007 financial crisis, financial institutions performed valuation a
 
 The current methodology in capital markets for marking to market securities and derivatives is to estimate and discount future cash flows using rates derived from the appropriate term structure. The yield term structure is increasingly used as the foundation for deriving relative term structures and as a benchmark for pricing and hedging. 
 
-You can find more details at
-https://finpricing.com/lib/IrCurveIntroduction.html
+References:
+
+https://finpricing.com/lib/EqAsian.html
+
 
